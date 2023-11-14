@@ -1,0 +1,43 @@
+.display-5 {
+position: relative;
+
+}
+
+
+
+
+
+
+.cardbody {
+    position: absolute;
+    right: 0;
+    width: 20px;
+    height: 20px;
+       
+} 
+
+.footer-container {
+
+}
+.navbar-brand {
+
+}
+.container-fluid {
+background-color: white;
+}
+.navbar{
+
+}
+
+.button-1 {
+color: indianred;
+border-radius: 7px;
+}
+
+.button-2 {
+color: indianred;
+}
+ .button-3 {
+color: indianred;
+ }
+ 
